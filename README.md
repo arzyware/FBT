@@ -14,19 +14,19 @@ Facebook Toolkit
 <p align="center">
 
  <a href="https://github.com/CoffeeCode-ID">
-    <img alt="Top Language" src="https://img.shields.io/github/languages/top/CoffeeCode-ID/FBT.svg.svg"/>
+    <img alt="Top Language" src="https://img.shields.io/github/languages/top/CoffeeCode-ID/FBT.svg"/>
   </a>
 <a href="https://github.com/CoffeeCode-ID/followers">
   <img title="Followers" src="https://img.shields.io/github/followers/CoffeeCode-ID?label=Followers&color=blue&style=flat-square"></a>
 <a href="https://github.com/CoffeeCode-ID/FBT.svg/stargazers/">
 <a href="https://github.com/CoffeeCode-ID">
-  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/CoffeeCode-ID/FBT.svg.svg"/>
+  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/CoffeeCode-ID/FBT.svg"/>
 </a>
 <a href="https://github.com/tegar-syndicate">
-  <img alt="Language" src="https://img.shields.io/github/languages/count/CoffeeCode-ID/FBT.svg.svg"/>
+  <img alt="Language" src="https://img.shields.io/github/languages/count/CoffeeCode-ID/FBT.svg"/>
 </a>
 <a href="https://github.com/tegar-syndicate">
-  <img alt="Starts" src="https://img.shields.io/github/stars/CoffeeCode-ID/FBT.svg.svg"/>
+  <img alt="Starts" src="https://img.shields.io/github/stars/CoffeeCode-ID/FBT.svg"/>
 </a>
 <a href="https://github.com/tegar-syndicate">
   <img alt="Forks" src="https://img.shields.io/github/forks/CoffeeCode-ID/FBT.svg"/>
